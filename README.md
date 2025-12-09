@@ -105,3 +105,10 @@ Visualização da distribuição das notas em todas as Unidades da Federação.
 O gráfico de dispersão com linha de regressão investiga a hipótese de que estados com mais faltas teriam notas menores. A linha quase horizontal sugere uma correlação fraca ou inexistente.
 
 <img width="1389" height="593" alt="image" src="https://github.com/user-attachments/assets/11999194-0f1d-4bbb-9dc3-34eb026500ce" />
+
+📫 Contato
+Caso tenha dúvidas, sugestões ou queira discutir sobre os resultados, entre em contato conosco:
+
+Diego Ribeiro Lima: diegoribeiro59@outlook.com
+
+Giulia Santiago Barreto: giuliasantiagob@gmail.com
