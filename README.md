@@ -106,6 +106,7 @@ O gráfico de dispersão com linha de regressão investiga a hipótese de que es
 
 <img width="1389" height="593" alt="image" src="https://github.com/user-attachments/assets/11999194-0f1d-4bbb-9dc3-34eb026500ce" />
 
+
 📫 Contato
 Caso tenha dúvidas, sugestões ou queira discutir sobre os resultados, entre em contato conosco:
 
