@@ -4,6 +4,10 @@
 
 O objetivo principal deste projeto é investigar padrões de desempenho acadêmico ("Conceito Enade") e correlacioná-los com **variáveis geográficas**, **tipos de instituição** e **taxas de abstenção**.
 
+👥 **Autores:**
+* **Diego Ribeiro Lima**
+* **Giulia Santiago Barreto**
+
 ---
 
 ## 📝 Sobre o Projeto
